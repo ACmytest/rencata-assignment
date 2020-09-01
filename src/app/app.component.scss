@@ -1,0 +1,21 @@
+
+input.ng-invalid.ng-touched {
+	border: 1px solid red;
+}
+p.help-block{
+	color: red !important;
+}
+.addbuttion{
+    margin-top: 50px;
+}
+.addbuttion button {
+    position: relative;
+    left: 40%;
+}
+footer {
+    padding-top: 100px;
+    background-color: #e9ecef;
+    padding: 20px;
+    box-sizing: border-box;
+    clear: both;
+}
